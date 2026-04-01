@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 4.1)
+project(untitled1)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(untitled1 main.cpp)
+
+set(CMAKE_C_STANDARD 11)
+add_executable(hello hello.c)
