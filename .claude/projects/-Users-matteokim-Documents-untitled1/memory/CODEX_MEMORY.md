@@ -1,4 +1,0 @@
-- [codex_user_language.md](codex_user_language.md) - User speaks English, responses should be in Korean
-- [codex_readme.md](codex_readme.md) - Codex-specific project notes and workflow summary
-- [codex_session_notes.md](codex_session_notes.md) - Persistent Codex notes from this workspace
-- [../../../../../README.md](../../../../../README.md) - Project README reference for Codex
